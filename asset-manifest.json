@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/search-filter-app-using-reactjs/static/css/main.288b57b7.css",
+    "main.js": "/search-filter-app-using-reactjs/static/js/main.5ff7dec3.js",
+    "static/js/453.f3dc3528.chunk.js": "/search-filter-app-using-reactjs/static/js/453.f3dc3528.chunk.js",
+    "index.html": "/search-filter-app-using-reactjs/index.html",
+    "main.288b57b7.css.map": "/search-filter-app-using-reactjs/static/css/main.288b57b7.css.map",
+    "main.5ff7dec3.js.map": "/search-filter-app-using-reactjs/static/js/main.5ff7dec3.js.map",
+    "453.f3dc3528.chunk.js.map": "/search-filter-app-using-reactjs/static/js/453.f3dc3528.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.288b57b7.css",
+    "static/js/main.5ff7dec3.js"
+  ]
+}
